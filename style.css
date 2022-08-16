@@ -1,0 +1,65 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 40;
+  background-image:url(Images/backgroundwhite.jpg);
+  font-family: Helvetica, Arial, sans-serif;
+  
+}
+
+.logo{
+  font-family: "Lucida Console";
+  font-size: 50px;
+  width: 60%;
+  
+}
+
+header {
+  font-size: 35px;
+  text-align: center;
+  background-color: #F0E68C
+  
+  
+}
+
+h1{
+  font-family: serif,
+  font-size: 10px;
+  color:#474448;
+  text-align: center;
+  }
+
+h2 {
+  font-family: "Montserrat", serif;
+  font-size: 30 px;
+  color: #0B090C;
+  text-align: center;
+}
+
+p, li{
+  font-family:"Monaco";
+  margin-bottom: 15;
+}
+
+.light-background {
+  background-color: #FFEFD5;
+}
+
+.wrapper {
+  width: 300 px;
+  margin: auto;
+}
+
+
+img, iframe {
+  width: 90%;
+  border: 1px solid black;
+}
+
+.border-top {
+  padding-top:70px;
+  border-top: 2px solid black;
+}
